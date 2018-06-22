@@ -1,5 +1,6 @@
 # フロントエンド
 ## 全般
+- [JavaScriptが辿った変遷](https://qiita.com/naoki_mochizuki/items/cc6ef57d35ba6a69117f)
 - [最近のフロントエンドのコンポーネント設計に立ち向かう](https://qiita.com/seya/items/8814e905693f00cdade2)
 - [Atomic Designの考え方と利点・欠点](https://blog.kubosho.com/entry/using-atomic-design/)
 - [Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い](https://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7)
