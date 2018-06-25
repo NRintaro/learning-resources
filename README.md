@@ -7,3 +7,4 @@
 - [フロントエンド](./web_frontend.md)
 - [Web系バックエンド](./web_backend.md)
 - [仮想環境構築](./virtual_environment.md)
+- [その他](./others.md)
