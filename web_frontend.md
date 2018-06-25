@@ -15,6 +15,10 @@
 ### 全般
 - [JavaScriptが辿った変遷](https://qiita.com/naoki_mochizuki/items/cc6ef57d35ba6a69117f)
 - [ESLint 最初の一歩](https://qiita.com/mysticatea/items/f523dab04a25f617c87d)
-### Vue.js
+
+###フレームワーク
+#### Vue.js
 - [公式Vue.jsチュートリアル](https://jp.vuejs.org/v2/guide/)
-- [vue.jsのcomponentをwebpackで.vueにして単一ファイルコンポーネントにする](https://qiita.com/tkhr/items/ac22019c891fe8fa5f91)
+- [vue.jsのcomponentをwebpackで.vueにして単一ファイルコンポーネントにする](https://qiita.com/tkhr/items/ac22019c891fe8fa5f91)  
+- [axios | GitHub](https://github.com/axios/axios)
+- [axios を利用した API の使用](https://jp.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
