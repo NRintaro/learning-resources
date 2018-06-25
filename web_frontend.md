@@ -22,5 +22,6 @@
 - [vue.jsのcomponentをwebpackで.vueにして単一ファイルコンポーネントにする](https://qiita.com/tkhr/items/ac22019c891fe8fa5f91)  
 
 ### HTTPクライアント
+#### axios
 - [axios | GitHub](https://github.com/axios/axios)
 - [axios を利用した API の使用](https://jp.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
