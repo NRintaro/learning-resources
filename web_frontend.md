@@ -23,7 +23,7 @@
 
 ### 状態管理パターン + ライブラリ
 #### Vuex
-[Vuex とは何か？](https://vuex.vuejs.org/ja/)
+- [Vuex とは何か？](https://vuex.vuejs.org/ja/)
 
 ### HTTPクライアント
 #### axios
