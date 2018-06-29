@@ -19,7 +19,11 @@
 ### フレームワーク
 #### Vue.js
 - [公式Vue.jsチュートリアル](https://jp.vuejs.org/v2/guide/)
-- [vue.jsのcomponentをwebpackで.vueにして単一ファイルコンポーネントにする](https://qiita.com/tkhr/items/ac22019c891fe8fa5f91)  
+- [vue.jsのcomponentをwebpackで.vueにして単一ファイルコンポーネントにする](https://qiita.com/tkhr/items/ac22019c891fe8fa5f91)
+
+### 状態管理パターン + ライブラリ
+#### Vuex
+[Vuex とは何か？](https://vuex.vuejs.org/ja/)
 
 ### HTTPクライアント
 #### axios
