@@ -18,14 +18,16 @@
 
 ### フレームワーク
 #### Vue.js
-- [公式Vue.jsチュートリアル](https://jp.vuejs.org/v2/guide/)
+- [公式 | Vue.jsチュートリアル](https://jp.vuejs.org/v2/guide/)
 - [vue.jsのcomponentをwebpackで.vueにして単一ファイルコンポーネントにする](https://qiita.com/tkhr/items/ac22019c891fe8fa5f91)
 - [Vue.js プロジェクトの爆発させかた](https://speakerdeck.com/potato4d/how-to-explosion-vue-dot-js-project)
+#### Nuxt.js
+- [公式 | はじめに](https://ja.nuxtjs.org/guide)
 - [「結局Nuxt.jsって何がいいの？」に対する回答](https://slides.com/potato4d/vuejs_meetup7#/)
 
 ### 状態管理パターン + ライブラリ
 #### Vuex
-- [公式Vuex とは何か？](https://vuex.vuejs.org/ja/)
+- [公式 | Vuex とは何か？](https://vuex.vuejs.org/ja/)
 
 ### HTTPクライアント
 #### axios
