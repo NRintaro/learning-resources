@@ -5,11 +5,12 @@
 - [Webアプリケーション開発者から見た、MVCとMVP、そしてMVVMの違い](https://qiita.com/shinkuFencer/items/f2651073fb71416b6cd7)
 
 ## HTML/CSS
+### 全般
+- [Flexboxを使ったレイアウト組み](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)
+- [普通のHTMLの書き方](https://hail2u.net/documents/html-best-practices.html)
+
 ### モックアップ作成ツール
 - [Balsamiq Cloud](https://balsamiq.cloud)
-
-### レイアウトを組む
-- [Flexboxを使ったレイアウト組み](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)
 
 ## JavaScript
 ### 全般
