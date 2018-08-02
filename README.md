@@ -4,6 +4,7 @@
 
 - [システム開発の流れ](./flow_of_system_development.md)
 - [システム設計](./system_design.md)
+- [バージョン管理](./version_management.md)
 - [フロントエンド](./web_frontend.md)
 - [Web系バックエンド](./web_backend.md)
 - [iOS](./ios.md)
