@@ -6,7 +6,7 @@
 - [システム設計](./system_design.md)
 - [バージョン管理](./version_management.md)
 - [フロントエンド](./web_frontend.md)
-- [Web系バックエンド](./web_backend.md)
+- [バックエンド](./web_backend.md)
 - [iOS](./ios.md)
 - [仮想環境構築](./virtual_environment.md)
 - [その他](./others.md)
