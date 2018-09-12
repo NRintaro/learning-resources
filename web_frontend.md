@@ -8,6 +8,7 @@
 ### 全般
 - [Flexboxを使ったレイアウト組み](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)
 - [普通のHTMLの書き方](https://hail2u.net/documents/html-best-practices.html)
+- [Color Hex Color Codes](https://www.color-hex.com/)
 
 ### モックアップ作成ツール
 - [Balsamiq Cloud](https://balsamiq.cloud)
