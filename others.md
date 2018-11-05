@@ -9,3 +9,4 @@
 - [「道をつくる」その後の思索](https://tomomii.hatenablog.com/entry/2018/07/08/235720)
 - [北野武さんが「夢を叶える事」について言及。その内容があまりにも深過ぎると話題に…-Cadot（カド）](https://cadot.jp/impression/14296.html/1)
 - [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
+- [フロントエンドエンジニアから、デザイナーさんに意識してほしい10のこと](https://note.mu/pittan/n/n5789d09c5575)
