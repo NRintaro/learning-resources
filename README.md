@@ -8,7 +8,7 @@
 - [フロントエンド](./web_frontend.md)
 - [バックエンド](./web_backend.md)
 - [iOS](./ios.md)
-- [Vim環境構築](./vim.md)
+- [Vim](./vim.md)
 - [仮想環境構築](./virtual_environment.md)
 - [認証](./certification.md)
 - [書籍](./book.md)
