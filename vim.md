@@ -8,3 +8,4 @@
 - [Github | dein.vim](https://github.com/Shougo/dein.vim)
 - [【図解Vim】mapとnoremap - ここぽんのーと](https://cocopon.me/blog/2013/10/vim-map-noremap/)
 - [第1回 Vim を最小限の設定で使う](https://www.soum.co.jp/misc/vim-no-susume/1/)
+- [モテる男のVim script短期集中講座](https://mattn.kaoriya.net/software/vim/20111202085236.htm)
