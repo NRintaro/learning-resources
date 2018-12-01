@@ -1,7 +1,6 @@
 # システム設計
 
 ## 仕様書を作成する
-
 - [Joel on Software - やさしい機能仕様](http://japanese.joelonsoftware.com/Articles/PainlessFunctionalSpecifi-2.html)
 
 ## エラー処理設計をする

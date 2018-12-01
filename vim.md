@@ -1,5 +1,4 @@
 # Vim
-
 - [vim-jp » vim-users.jp](https://vim-jp.org/vim-users-jp/)
 - [vim-jp » Vim script事始め](https://vim-jp.org/tips/start_vimscript.html)
 - [スパルタンVim(著者:KoRoN/香り屋)](http://files.kaoriya.net/docs/SpartanVim/SpartanVim-1.0-online.pdf)
