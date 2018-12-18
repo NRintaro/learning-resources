@@ -11,3 +11,4 @@
 - [フロントエンドエンジニアから、デザイナーさんに意識してほしい10のこと](https://note.mu/pittan/n/n5789d09c5575)
 - [Ruby on Rails ガイド：体系的に Rails を学ぼう](https://railsguides.jp/)
   - Rails問わず、ためになる。(セキュリティについてとか)
+- [5分でわかるブロックチェーンの基本的な仕組み | SlideShare](https://www.slideshare.net/cookle/5-58379474/)
