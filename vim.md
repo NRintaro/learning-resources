@@ -6,6 +6,6 @@
 - [vimrcをgithub管理して、簡単にvim環境構築](http://www.kurisankaku.xyz/entry/2016/04/19/201957)
 - [Vimをもっと上手に! 新たな旋風、Neovimで自堕落なVim力に喝を入れる。 | 東京上野のWeb制作会社LIG](https://liginc.co.jp/409849)
 - [【図解Vim】mapとnoremap - ここぽんのーと](https://cocopon.me/blog/2013/10/vim-map-noremap/)
-- [第1回 Vim を最小限の設定で使う](https://www.soum.co.jp/misc/vim-no-susume/1/)
+- [Vim のすゝめ - Vim を最小限の設定で使う | 株式会社創夢 — SOUM/misc](https://www.soum.co.jp/misc/vim-no-susume/1/)
 - [モテる男のVim script短期集中講座](https://mattn.kaoriya.net/software/vim/20111202085236.htm)
 - [Effective Modern Vim scripting](https://docs.google.com/presentation/d/e/2PACX-1vQKaWJY8w6QJpebvuzg334RfLDbQHv4-J_06yFxdTzLrrjhE_y5iuzA-JxCCuFdUAZQB2QQsidF_mys/pub?start=false&loop=false&delayms=3000&slide=id.p)
