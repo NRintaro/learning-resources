@@ -9,3 +9,4 @@
 - [Vim のすゝめ - Vim を最小限の設定で使う | 株式会社創夢 — SOUM/misc](https://www.soum.co.jp/misc/vim-no-susume/1/)
 - [モテる男のVim script短期集中講座](https://mattn.kaoriya.net/software/vim/20111202085236.htm)
 - [Effective Modern Vim scripting](https://docs.google.com/presentation/d/e/2PACX-1vQKaWJY8w6QJpebvuzg334RfLDbQHv4-J_06yFxdTzLrrjhE_y5iuzA-JxCCuFdUAZQB2QQsidF_mys/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [上達したいVim初心者のための設定・プラグインの見つけ方、学び方〈エディタ実践入門〉](https://employment.en-japan.com/engineerhub/entry/2019/01/28/103000)
