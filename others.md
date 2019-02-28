@@ -13,3 +13,4 @@
   - Rails問わず、ためになる。(セキュリティについてとか)
 - [5分でわかるブロックチェーンの基本的な仕組み | SlideShare](https://www.slideshare.net/cookle/5-58379474/)
 - [システム障害のおわびとまなび - freee Developers Blog](https://developers.freee.co.jp/entry/2018/12/22/235610)
+- [文字コードUTF-8とは〜世界で最もポピュラーな文字コードとその仕組みを学ぼう｜ferret [フェレット]](https://ferret-plus.com/7006)
