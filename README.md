@@ -1,5 +1,9 @@
 # Engineer Learning Resources
 
+## めも
+ここにリンクを貼る記事とそうでない記事の境目が最近分からなくなってきたような。。。
+qiitaやはてブでストックしてる記事も含めて一旦境目決めて整理したい。
+
 ## 目次
 - [調べ方](./how_to_look.md)
 - [システム開発の流れ](./flow_of_system_development.md)
