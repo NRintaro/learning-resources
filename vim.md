@@ -10,3 +10,4 @@
 - [モテる男のVim script短期集中講座](https://mattn.kaoriya.net/software/vim/20111202085236.htm)
 - [Effective Modern Vim scripting](https://docs.google.com/presentation/d/e/2PACX-1vQKaWJY8w6QJpebvuzg334RfLDbQHv4-J_06yFxdTzLrrjhE_y5iuzA-JxCCuFdUAZQB2QQsidF_mys/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [上達したいVim初心者のための設定・プラグインの見つけ方、学び方〈エディタ実践入門〉](https://employment.en-japan.com/engineerhub/entry/2019/01/28/103000)
+- [閉じ括弧の自動入力(thincaの場合)](https://thinca.hatenablog.com/entry/20081005/1223206388)
