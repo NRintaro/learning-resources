@@ -1,4 +1,5 @@
 # Vim
+
 - [vim-jp » vim-users.jp](https://vim-jp.org/vim-users-jp/)
 - [vim-jp » Vim script事始め](https://vim-jp.org/tips/start_vimscript.html)
 - [スパルタンVim(著者:KoRoN/香り屋)](http://files.kaoriya.net/docs/SpartanVim/SpartanVim-1.0-online.pdf)
@@ -11,3 +12,27 @@
 - [Effective Modern Vim scripting](https://docs.google.com/presentation/d/e/2PACX-1vQKaWJY8w6QJpebvuzg334RfLDbQHv4-J_06yFxdTzLrrjhE_y5iuzA-JxCCuFdUAZQB2QQsidF_mys/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [上達したいVim初心者のための設定・プラグインの見つけ方、学び方〈エディタ実践入門〉](https://employment.en-japan.com/engineerhub/entry/2019/01/28/103000)
 - [閉じ括弧の自動入力(thincaの場合)](https://thinca.hatenablog.com/entry/20081005/1223206388)
+- [15年目のVim | POSTD](https://postd.cc/vim3/)
+)
+
+
+## めも
+
+忘れそうな機能をめもしとく。
+
+### very magic
+
+```
+aaa
+bbaaaba
+caaaa
+aaaaaaa
+```
+
+から単語として`aaa`のみを検索するには、コマンドモードで
+
+```
+:/\v<aaa>
+```
+
+とする。
