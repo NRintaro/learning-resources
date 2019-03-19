@@ -13,7 +13,7 @@
 - [上達したいVim初心者のための設定・プラグインの見つけ方、学び方〈エディタ実践入門〉](https://employment.en-japan.com/engineerhub/entry/2019/01/28/103000)
 - [閉じ括弧の自動入力(thincaの場合)](https://thinca.hatenablog.com/entry/20081005/1223206388)
 - [15年目のVim | POSTD](https://postd.cc/vim3/)
-)
+- [Vim-Galore : Vimについて知っておくべき全てのこと (5/5)](https://postd.cc/vim-galore-5/)
 
 
 ## めも
