@@ -11,7 +11,7 @@ qiitaやはてブでストックしてる記事も含めて一旦境目決めて
 - [バージョン管理](./version_management.md)
 - [フロントエンド](./web_frontend.md)
 - [バックエンド](./web_backend.md)
-- [データーベース](./database.md)
+- [データベース](./database.md)
 - [iOS](./ios.md)
 - [Vim](./vim.md)
 - [仮想環境構築](./virtual_environment.md)
