@@ -4,7 +4,14 @@
 - [サルでもわかるGit入門 〜バージョン管理を使いこなそう〜 | どこでもプロジェクト管理バックログ](https://backlog.com/ja/git-tutorial/)
 - [Gitのコミットメッセージを後から変更する方法をわかりやすく書いてみた](https://www.granfairs.com/blog/staff/git-commit-fix)
 
+## 特定ファイルの変更履歴をみる
 
+```
+$ git log -p file/to/path
+```
+
+参考サイト
+- http://shuzo-kino.hateblo.jp/entry/2014/05/22/222251
 
 ### まだgitに追跡されていないファイルを除外する.
 参考サイト
