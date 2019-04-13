@@ -14,6 +14,8 @@
 - [閉じ括弧の自動入力(thincaの場合)](https://thinca.hatenablog.com/entry/20081005/1223206388)
 - [15年目のVim | POSTD](https://postd.cc/vim3/)
 - [Vim-Galore : Vimについて知っておくべき全てのこと (5/5)](https://postd.cc/vim-galore-5/)
+- [最後に改行がないファイルが作れない #152](https://github.com/vim-jp/issues/issues/152)
+- [なぜ gcc はファイルの最後に改行がないと警告を出すのか？](http://hiroakiuno.hatenablog.com/entry/20070409/p1)
 
 
 ## めも
