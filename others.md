@@ -15,3 +15,4 @@
 - [システム障害のおわびとまなび - freee Developers Blog](https://developers.freee.co.jp/entry/2018/12/22/235610)
 - [文字コードUTF-8とは〜世界で最もポピュラーな文字コードとその仕組みを学ぼう｜ferret [フェレット]](https://ferret-plus.com/7006)
 -[ヒープ領域とスタック領域の違いについて教えてください](https://ja.stackoverflow.com/questions/6501/%E3%83%92%E3%83%BC%E3%83%97%E9%A0%98%E5%9F%9F%E3%81%A8%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E9%A0%98%E5%9F%9F%E3%81%AE%E9%81%95%E3%81%84%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
+- [Writing an OS in Rust (Second Edition)](https://os.phil-opp.com/)
