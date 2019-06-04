@@ -4,3 +4,4 @@
 - [プログラムはなぜ動くのか　第２版　知っておきたいプログラムの基礎知識](https://eb.store.nikkei.com/asp/ShowItemDetailStart.do?itemId=D2-00P83150B0)
 - [コンピュータはなぜ動くのか　第２版　知っておきたいプログラムの基礎知識](https://eb.store.nikkei.com/asp/ShowSeriesDetail.do?seriesId=D2-00P81650B)
 - [Clean Architecture　達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/B07FSBHS2V/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [Amazon Web Services 基礎からのネットワーク＆サーバー構築 改訂版 Kindle版](https://www.amazon.co.jp/gp/product/B06Y5ZSYY4/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)
